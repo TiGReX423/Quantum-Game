@@ -1,6 +1,8 @@
 # Game title: “Quantum Observer: Have You Seen It Moving?”
 ## Developer(s) (individual / group): Iļja Žuravļovs
 
+### This project is released under the MIT License for academic purposes.
+
 ## Core Concept: 
 “Quantum Observer: Have You Seen It Moving?” is a 2D puzzle game (top-down), set in a laboratory environment where the player must navigate through maze-like chambers filled with walls, buttons, doors, and observation devices. The core mechanic revolves around the ability of the player to transition between a classical state and a quantum superposition-like state. In the classical state the environment behaves normally: walls are solid and the player moves through the maze in a conventional way. However, when entering the quantum state, the spatial configuration of the environment changes and some walls become permeable, allowing the player to move through areas that are otherwise inaccessible.
 The experience aims to simulate the logic of quantum phenomena through gameplay rather than through mathematical explanations. Players must carefully manage when to enter a quantum state and when to remain in a classical one, while also avoiding observation by cameras or other monitoring systems that can collapse their state. This creates a puzzle experience where movement, timing, and spatial reasoning must be combined with an understanding of observation and uncertainty. The overall goal is to create an experience similar to “test chamber” puzzle games such as Portal, but built around quantum concepts instead of portal mechanics.
