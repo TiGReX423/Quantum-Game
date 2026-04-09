@@ -1,0 +1,13 @@
+editor/
+__pycache__/
+*.pyc
+.vscode/
+*.log
+*.tmp
+assets/images/animations/
+assets/images/objects/
+assets/images/player/
+assets/images/tiles/
+assets/images/tileset/
+assets/images/ui/
+assets/images/zones/

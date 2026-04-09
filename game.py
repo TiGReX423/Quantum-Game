@@ -61,8 +61,7 @@ class Game:
         self.tile_height = self.floor_tile.get_height()
 
     def update(self, keys):
-        dx = 0
-        dy = 0
+        dx, dy = self.player.get_movement(keys)
 
         if keys[pygame.K_w]:
             dy -= self.player.speed
@@ -93,11 +92,7 @@ class Game:
                 if dy < 0:
                     self.player.rect.top = wall.bottom
 
-        # update sprite after movement
-        if self.player.direction == "left":
-            self.player.image = self.player.image_left
-        else:
-            self.player.image = self.player.image_right
+        self.player.update_animation(dx, dy)
 
         # Keep player inside world
         self.player.rect.x = max(0, min(self.player.rect.x, WORLD_WIDTH - self.player.rect.width))
