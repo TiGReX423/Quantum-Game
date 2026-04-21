@@ -1,15 +1,30 @@
 import os
 import pygame
-from settings import PLAYER_SPEED
+from settings import (
+    PLAYER_SPEED,
+    PLAYER_ACCELERATION,
+    PLAYER_DECELERATION,
+    PLAYER_MAX_HP,
+    PLAYER_VISUAL_SCALE,
+    PLAYER_HITBOX_WIDTH,
+    PLAYER_HITBOX_HEIGHT,
+    RED,
+)
 
 
 class Player:
     def __init__(self, x, y):
         self.speed = PLAYER_SPEED
-        self.scale = 3
+        self.acceleration = PLAYER_ACCELERATION
+        self.deceleration = PLAYER_DECELERATION
+        self.scale = PLAYER_VISUAL_SCALE
+        self.max_hp = PLAYER_MAX_HP
+        self.hp = PLAYER_MAX_HP
 
         # Hitbox used for movement and collisions
-        self.rect = pygame.Rect(x, y, 24 * self.scale, 12 * self.scale)
+        self.rect = pygame.Rect(x, y, PLAYER_HITBOX_WIDTH, PLAYER_HITBOX_HEIGHT)
+        self.position = pygame.Vector2(float(x), float(y))
+        self.velocity = pygame.Vector2()
 
         self.facing = "down"
         self.frame_index = 0
@@ -23,7 +38,6 @@ class Player:
             "right": self.load_animation("assets/images/player/move/move_right"),
         }
 
-        # Idle sprite
         idle_img = pygame.image.load("assets/images/player/player.png").convert_alpha()
         crop_rect = idle_img.get_bounding_rect()
         if crop_rect.width > 0 and crop_rect.height > 0:
@@ -31,7 +45,10 @@ class Player:
 
         self.idle_image = pygame.transform.scale(
             idle_img,
-            (idle_img.get_width() * self.scale, idle_img.get_height() * self.scale)
+            (
+                max(1, int(idle_img.get_width() * self.scale)),
+                max(1, int(idle_img.get_height() * self.scale)),
+            )
         )
 
         self.image = self.idle_image
@@ -47,15 +64,16 @@ class Player:
             full_path = os.path.join(folder_path, file_name)
             image = pygame.image.load(full_path).convert_alpha()
 
-            # Crop transparent empty space around the sprite
             crop_rect = image.get_bounding_rect()
             if crop_rect.width > 0 and crop_rect.height > 0:
                 image = image.subsurface(crop_rect).copy()
 
-            # Scale without smoothing to keep pixel art sharp
             image = pygame.transform.scale(
                 image,
-                (image.get_width() * self.scale, image.get_height() * self.scale)
+                (
+                    max(1, int(image.get_width() * self.scale)),
+                    max(1, int(image.get_height() * self.scale)),
+                )
             )
 
             frames.append(image)
@@ -77,11 +95,9 @@ class Player:
         if dx == 0 and dy == 0:
             return
 
-        # Keep current facing if its key is still held
         if self.direction_key_held(keys, self.facing):
             return
 
-        # Choose a new facing only if current facing key is no longer held
         if keys[pygame.K_w]:
             self.facing = "up"
         elif keys[pygame.K_s]:
@@ -92,20 +108,45 @@ class Player:
             self.facing = "right"
 
     def get_movement(self, keys):
-        dx = 0
-        dy = 0
+        input_x = 0
+        input_y = 0
 
         if keys[pygame.K_w]:
-            dy -= self.speed
+            input_y -= 1
         if keys[pygame.K_s]:
-            dy += self.speed
+            input_y += 1
         if keys[pygame.K_a]:
-            dx -= self.speed
+            input_x -= 1
         if keys[pygame.K_d]:
-            dx += self.speed
+            input_x += 1
 
-        self.choose_facing(keys, dx, dy)
-        return dx, dy
+        input_vector = pygame.Vector2(input_x, input_y)
+        if input_vector.length_squared() > 0:
+            input_vector = input_vector.normalize() * self.speed
+            self.velocity.x = self.move_towards(self.velocity.x, input_vector.x, self.acceleration)
+            self.velocity.y = self.move_towards(self.velocity.y, input_vector.y, self.acceleration)
+        else:
+            self.velocity.x = self.move_towards(self.velocity.x, 0.0, self.deceleration)
+            self.velocity.y = self.move_towards(self.velocity.y, 0.0, self.deceleration)
+
+        self.choose_facing(keys, self.velocity.x, self.velocity.y)
+        return self.velocity.x, self.velocity.y
+
+    def move_towards(self, current, target, amount):
+        if current < target:
+            return min(current + amount, target)
+        if current > target:
+            return max(current - amount, target)
+        return current
+
+    def move_axis(self, dx, dy):
+        self.position.x += dx
+        self.position.y += dy
+        self.sync_rect()
+
+    def sync_rect(self):
+        self.rect.x = int(round(self.position.x))
+        self.rect.y = int(round(self.position.y))
 
     def update_animation(self, dx, dy):
         moving = dx != 0 or dy != 0
@@ -124,23 +165,30 @@ class Player:
             self.frame_index = 0
             self.image = self.idle_image
 
+    def respawn(self, x, y):
+        self.position.update(float(x), float(y))
+        self.velocity.update(0.0, 0.0)
+        self.sync_rect()
+
+    def heal(self, amount=1):
+        self.hp = min(self.max_hp, self.hp + amount)
+
     def draw(self, surface, camera_x, camera_y):
-        # Draw sprite using bottom-center alignment to keep feet stable
         draw_x = self.rect.centerx - camera_x
         draw_y = self.rect.bottom - camera_y
 
         image_rect = self.image.get_rect(midbottom=(draw_x, draw_y))
         surface.blit(self.image, image_rect)
 
-        # Debug hitbox
-        # pygame.draw.rect(
-        #     surface,
-        #     (255, 0, 0),
-        #     pygame.Rect(
-        #         self.rect.x - camera_x,
-        #         self.rect.y - camera_y,
-        #         self.rect.width,
-        #         self.rect.height
-        #     ),
-        #     1
-        # )
+    def draw_hitbox(self, surface, camera_x, camera_y):
+        pygame.draw.rect(
+            surface,
+            RED,
+            pygame.Rect(
+                self.rect.x - camera_x,
+                self.rect.y - camera_y,
+                self.rect.width,
+                self.rect.height,
+            ),
+            1,
+        )
