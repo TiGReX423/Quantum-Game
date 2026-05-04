@@ -12,6 +12,7 @@ NOTE_TEXTS = {
 
 HOVER_HINTS = {
     "interactive": "LMB - interact",
+    "switch": "LMB - toggle",
     "note": "LMB - read",
     "pickup": "LMB/RMB - pick up",
     "key": "LMB/RMB - use key",
@@ -65,6 +66,9 @@ MESSAGES = {
     "camera_blocked": "You can't place the camera at this spot.",
     "camera_placed": "Camera placed.",
     "camera_cancelled": "Camera placement canceled.",
+    "switch_on": "Bridge enabled.",
+    "switch_off": "Bridge disabled.",
+    "switch_missing_target": "This switch is not connected to a bridge.",
     "god_mode_on": "God mode enabled.",
     "god_mode_off": "God mode disabled.",
     "god_teleport": "Teleported.",

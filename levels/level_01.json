@@ -265,7 +265,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -290,7 +291,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -315,7 +317,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -340,7 +343,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -365,7 +369,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -390,7 +395,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -415,7 +421,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -440,7 +447,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -465,7 +473,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -490,7 +499,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -515,7 +525,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -540,7 +551,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -565,7 +577,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -590,7 +603,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -615,7 +629,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -640,7 +655,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -665,7 +681,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -690,7 +707,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -715,7 +733,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -740,7 +759,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -765,7 +785,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -790,7 +811,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -815,7 +837,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -840,7 +863,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -865,7 +889,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -890,7 +915,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -915,7 +941,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -940,7 +967,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -965,7 +993,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -990,7 +1019,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1015,7 +1045,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1040,7 +1071,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1065,7 +1097,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1090,7 +1123,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1115,7 +1149,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1140,7 +1175,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1165,7 +1201,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1190,7 +1227,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1215,7 +1253,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1240,7 +1279,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1265,7 +1305,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1290,7 +1331,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1315,7 +1357,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1340,7 +1383,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1365,7 +1409,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1390,7 +1435,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1415,7 +1461,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1440,7 +1487,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1465,7 +1513,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1490,7 +1539,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1515,7 +1565,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1540,7 +1591,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1565,7 +1617,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1590,7 +1643,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1615,7 +1669,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1640,7 +1695,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1665,7 +1721,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1690,7 +1747,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1715,7 +1773,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1740,7 +1799,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1765,7 +1825,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1790,7 +1851,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1815,7 +1877,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1840,7 +1903,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1865,7 +1929,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1890,12 +1955,13 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
       "kind": "static",
-      "path": "assets/images/_used/Condominium_Singles_Shadowless_32x32_86.png",
+      "path": "assets/images/_used/door.png",
       "x": 471,
       "y": 400,
       "anchor": "topleft",
@@ -1915,7 +1981,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1940,7 +2007,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1965,7 +2033,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -1981,7 +2050,7 @@
       "_coord_space": "pixel32",
       "props": {
         "id": "note_3",
-        "type": "generic",
+        "type": "note",
         "group": "",
         "direction": "down",
         "preset": "default",
@@ -1990,7 +2059,9 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": "",
+        "note_text": "The key is hanging on the key holder near the exit. Take it if the door is still closed and simply use the mouse nearby."
       }
     },
     {
@@ -2006,7 +2077,7 @@
       "_coord_space": "pixel32",
       "props": {
         "id": "note_1",
-        "type": "generic",
+        "type": "note",
         "group": "",
         "direction": "down",
         "preset": "default",
@@ -2015,7 +2086,9 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": "",
+        "note_text": "Darling, I left you some food on the table. Don't go to work hungry. Warm it up properly and make sure you eat. I love you."
       }
     },
     {
@@ -2031,7 +2104,7 @@
       "_coord_space": "pixel32",
       "props": {
         "id": "note_2",
-        "type": "generic",
+        "type": "note",
         "group": "",
         "direction": "down",
         "preset": "default",
@@ -2040,7 +2113,9 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": "",
+        "note_text": "The surveillance system is acting up again: the cameras in the lab are acting strangely near the experimental subjects. Check the image before your shift."
       }
     },
     {
@@ -2065,12 +2140,13 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
       "kind": "static",
-      "path": "assets/images/_used/Condominium_Singles_Shadowless_32x32_86.png",
+      "path": "assets/images/_used/door.png",
       "x": 566,
       "y": 543,
       "anchor": "topleft",
@@ -2081,7 +2157,7 @@
       "_coord_space": "pixel32",
       "props": {
         "id": "door_3",
-        "type": "generic",
+        "type": "door",
         "group": "",
         "direction": "down",
         "preset": "default",
@@ -2090,7 +2166,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2115,12 +2192,13 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
       "kind": "static",
-      "path": "assets/images/_used/Condominium_Singles_Shadowless_32x32_86.png",
+      "path": "assets/images/_used/door.png",
       "x": 1399,
       "y": 526,
       "anchor": "topleft",
@@ -2140,7 +2218,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2165,7 +2244,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2190,7 +2270,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2215,12 +2296,13 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
       "kind": "static",
-      "path": "assets/images/_used/Condominium_Singles_Shadowless_32x32_86.png",
+      "path": "assets/images/_used/door.png",
       "x": 567,
       "y": 1407,
       "anchor": "topleft",
@@ -2240,12 +2322,13 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
       "kind": "static",
-      "path": "assets/images/_used/Condominium_Singles_Shadowless_32x32_86.png",
+      "path": "assets/images/_used/door.png",
       "x": 1078,
       "y": 1418,
       "anchor": "topleft",
@@ -2265,12 +2348,13 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
       "kind": "static",
-      "path": "assets/images/_used/Condominium_Singles_Shadowless_32x32_86.png",
+      "path": "assets/images/_used/door.png",
       "x": 856,
       "y": 1533,
       "anchor": "topleft",
@@ -2290,7 +2374,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2315,7 +2400,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": "single_only"
       }
     },
     {
@@ -2340,7 +2426,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": "single_only"
       }
     },
     {
@@ -2365,7 +2452,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": "single_only"
       }
     },
     {
@@ -2390,7 +2478,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2415,7 +2504,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2440,12 +2530,13 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
       "kind": "static",
-      "path": "assets/images/_used/Condominium_Singles_Shadowless_32x32_86.png",
+      "path": "assets/images/_used/door.png",
       "x": 372,
       "y": 1771,
       "anchor": "topleft",
@@ -2465,14 +2556,15 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
       "kind": "static",
-      "path": "assets/images/_used/Condominium_Singles_Shadowless_32x32_86.png",
-      "x": 831,
-      "y": 1845,
+      "path": "assets/images/_used/door.png",
+      "x": 832,
+      "y": 1856,
       "anchor": "topleft",
       "layer": "object",
       "render_layer": "above_overlay",
@@ -2490,7 +2582,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2515,7 +2608,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2540,7 +2634,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2565,7 +2660,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2590,7 +2686,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2615,7 +2712,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2640,7 +2738,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2665,7 +2764,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2690,7 +2790,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2715,7 +2816,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2740,7 +2842,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2765,7 +2868,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2790,7 +2894,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2815,7 +2920,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2840,7 +2946,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2865,7 +2972,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2890,7 +2998,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2915,7 +3024,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2940,7 +3050,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2965,7 +3076,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -2990,7 +3102,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3015,7 +3128,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3040,7 +3154,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3065,7 +3180,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3090,7 +3206,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3115,7 +3232,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3140,7 +3258,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3165,7 +3284,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3190,7 +3310,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3215,7 +3336,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3240,7 +3362,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3265,7 +3388,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3290,7 +3414,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3315,7 +3440,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3340,12 +3466,13 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
       "kind": "static",
-      "path": "assets/images/_used/Condominium_Singles_Shadowless_32x32_86.png",
+      "path": "assets/images/_used/door.png",
       "x": 154,
       "y": 715,
       "anchor": "topleft",
@@ -3365,7 +3492,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3390,7 +3518,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3415,7 +3544,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3440,7 +3570,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3465,7 +3596,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3490,7 +3622,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3515,7 +3648,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3540,7 +3674,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3565,7 +3700,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3590,7 +3726,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3615,7 +3752,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3640,7 +3778,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3665,7 +3804,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3690,7 +3830,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3715,7 +3856,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3740,7 +3882,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3765,7 +3908,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3790,7 +3934,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3815,7 +3960,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3840,7 +3986,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3865,7 +4012,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3890,7 +4038,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3915,7 +4064,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3940,7 +4090,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3965,7 +4116,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -3990,7 +4142,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4015,7 +4168,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4040,7 +4194,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4065,7 +4220,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4090,7 +4246,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4115,7 +4272,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4140,7 +4298,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4165,7 +4324,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4190,7 +4350,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4215,7 +4376,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4240,7 +4402,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4265,7 +4428,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4290,7 +4454,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4315,7 +4480,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4340,7 +4506,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4365,7 +4532,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4390,7 +4558,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4415,7 +4584,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4440,7 +4610,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4465,7 +4636,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4490,7 +4662,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4515,7 +4688,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4540,7 +4714,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4565,7 +4740,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4590,7 +4766,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4615,7 +4792,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4640,7 +4818,8 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": ""
       }
     },
     {
@@ -4656,7 +4835,7 @@
       "_coord_space": "pixel32",
       "props": {
         "id": "note_5",
-        "type": "generic",
+        "type": "note",
         "group": "",
         "direction": "down",
         "preset": "default",
@@ -4665,7 +4844,9 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": "",
+        "note_text": "There's a labyrinth ahead. Take your time, look around, and don't get lost. Sometimes it's better to stop and think than to rush in."
       }
     },
     {
@@ -4681,7 +4862,7 @@
       "_coord_space": "pixel32",
       "props": {
         "id": "note_4",
-        "type": "generic",
+        "type": "note",
         "group": "",
         "direction": "down",
         "preset": "default",
@@ -4690,7 +4871,9 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": "",
+        "note_text": "There's a portable camera by the exit. Don't forget what it's for: sometimes only observation can change what's happening in the lab."
       }
     },
     {
@@ -4706,7 +4889,7 @@
       "_coord_space": "pixel32",
       "props": {
         "id": "note_6",
-        "type": "generic",
+        "type": "note",
         "group": "",
         "direction": "down",
         "preset": "default",
@@ -4715,7 +4898,9 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": "",
+        "note_text": "The three quantum buttons are unstable. When the camera is looking at several at once, one of them disappears. If several are in view, the farthest one disappears."
       }
     },
     {
@@ -4731,7 +4916,7 @@
       "_coord_space": "pixel32",
       "props": {
         "id": "note_7",
-        "type": "generic",
+        "type": "note",
         "group": "",
         "direction": "down",
         "preset": "default",
@@ -4740,7 +4925,9 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": "",
+        "note_text": "This box is very heavy. You can only push it one square at a time and only forward. You can't push two boxes at once."
       }
     },
     {
@@ -4756,7 +4943,7 @@
       "_coord_space": "pixel32",
       "props": {
         "id": "note_8",
-        "type": "generic",
+        "type": "note",
         "group": "",
         "direction": "down",
         "preset": "default",
@@ -4765,7 +4952,9 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": "",
+        "note_text": "Some buttons require you to hold down. If you don't feel like standing there, try placing a box on them."
       }
     },
     {
@@ -4781,7 +4970,7 @@
       "_coord_space": "pixel32",
       "props": {
         "id": "note_9",
-        "type": "generic",
+        "type": "note",
         "group": "",
         "direction": "down",
         "preset": "default",
@@ -4790,7 +4979,9 @@
         "delay": 0,
         "range": 4,
         "fov": 90,
-        "pair_id": ""
+        "pair_id": "",
+        "subtype": "",
+        "note_text": "Good luck at work in the lab. And try not to blow anything up today."
       }
     }
   ],
