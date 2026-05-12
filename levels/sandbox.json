@@ -1,6 +1,6 @@
 {
   "meta": {
-    "name": "level_03",
+    "name": "sandbox",
     "tile_size": 32,
     "width": 60,
     "height": 40,
@@ -13999,6 +13999,28 @@
         "opens_when_powered": 1,
         "turns_off_when_powered": 1
       }
+    },
+    "objdef_22": {
+      "kind": "static",
+      "path": "assets/images/_used/ME_Singles_Police_Station_32x32_Spotlight_2.png",
+      "anchor": "topleft",
+      "layer": "object",
+      "render_layer": "above_overlay",
+      "scale": 0.4,
+      "props": {
+        "type": "broken",
+        "group_id": "broken",
+        "direction": "down",
+        "preset": "default",
+        "delay": 0,
+        "range": 4,
+        "fov": 90,
+        "power": 1,
+        "on": 0,
+        "generator_variant": "small",
+        "opens_when_powered": 1,
+        "turns_off_when_powered": 1
+      }
     }
   },
   "objects": [
@@ -14471,6 +14493,16 @@
       "props": {
         "id": "obj_63"
       }
+    },
+    {
+      "def": "objdef_22",
+      "x": 389,
+      "y": 240,
+      "z_order": 64,
+      "_coord_space": "pixel32",
+      "props": {
+        "id": "obj_64"
+      }
     }
   ],
   "zones": [
@@ -14833,7 +14865,7 @@
     }
   ],
   "editor": {
-    "next_generated_id": 64,
-    "next_z_order": 64
+    "next_generated_id": 65,
+    "next_z_order": 65
   }
 }

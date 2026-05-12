@@ -12,15 +12,20 @@ NOTE_TEXTS = {
 
 HOVER_HINTS = {
     "interactive": "LMB - interact",
+    "generator": "LMB - toggle power",
     "switch": "LMB - toggle",
     "note": "LMB - read",
     "pickup": "LMB/RMB - pick up",
     "key": "LMB/RMB - use key",
     "placed_camera": "RMB - remove camera",
+    "plant": "LMB - water",
+    "broken": "LMB - repair",
+    "cleanup": "RMB - clean up",
 }
 
 HUD_LINES = (
     "E - place/remove camera",
+    "1 - camera, 2 - watering can",
     "R - return to checkpoint",
 )
 
@@ -69,6 +74,13 @@ MESSAGES = {
     "switch_on": "Bridge enabled.",
     "switch_off": "Bridge disabled.",
     "switch_missing_target": "This switch is not connected to a bridge.",
+    "generator_on": "Generator enabled.",
+    "generator_off": "Generator disabled.",
+    "watering_can_picked": "Picked up a watering can.",
+    "plant_needs_watering_can": "Equip the watering can first.",
+    "plant_watered": "Plant watered.",
+    "broken_fixed": "Object repaired.",
+    "cleanup_done": "Area cleaned.",
     "god_mode_on": "God mode enabled.",
     "god_mode_off": "God mode disabled.",
     "god_teleport": "Teleported.",

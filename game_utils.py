@@ -29,6 +29,40 @@ def load_image(path, scale=1.0):
     return image
 
 
+def make_grayscale(image):
+    gray = image.copy()
+    width, height = gray.get_size()
+    for y in range(height):
+        for x in range(width):
+            color = gray.get_at((x, y))
+            if color.a == 0:
+                continue
+            luminance = int(color.r * 0.299 + color.g * 0.587 + color.b * 0.114)
+            gray.set_at((x, y), pygame.Color(luminance, luminance, luminance, color.a))
+    return gray
+
+
+def load_sprite_strip(path, frame_width, frame_height, scale=1.0):
+    sheet = pygame.image.load(resolve_path(path)).convert_alpha()
+    frames = []
+    cols = max(1, sheet.get_width() // frame_width)
+    rows = max(1, sheet.get_height() // frame_height)
+    for row in range(rows):
+        for col in range(cols):
+            rect = pygame.Rect(col * frame_width, row * frame_height, frame_width, frame_height)
+            frame = sheet.subsurface(rect).copy()
+            if scale != 1.0:
+                frame = pygame.transform.scale(
+                    frame,
+                    (
+                        max(1, int(round(frame.get_width() * scale))),
+                        max(1, int(round(frame.get_height() * scale))),
+                    ),
+                )
+            frames.append(frame)
+    return frames
+
+
 def angle_to(from_pos, to_pos):
     dx = to_pos[0] - from_pos[0]
     dy = to_pos[1] - from_pos[1]
